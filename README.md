@@ -3,8 +3,6 @@
   ### Hi there 👋, My name is Felipe
   I like programming and learning more and more about this big world
 
-  Skills: HTML / CSS / PYTHON
-
    📫 How to reach me: felipevillamizarc@gmail.com 
   <hr>
   
