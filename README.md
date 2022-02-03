@@ -1,5 +1,5 @@
-<img align=right src="https://visitor-badge.glitch.me/badge?page_id=felipevcc.visitor-badge">
-  
+<img align=right src="https://visitor-badge.laobi.icu/badge?page_id=felipevcc">
+
 <div align=center>
   
   # <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="33px"> Hi there, My name is Felipe
