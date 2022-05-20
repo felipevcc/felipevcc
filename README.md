@@ -3,7 +3,7 @@
 <div align=center>
   
   # <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="33px"> Hi there, My name is Felipe
-  I like programming and learning more and more about this big world
+  
   
    📫 How to reach me: felipevillamizarc@gmail.com 
   
