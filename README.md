@@ -2,7 +2,7 @@
 
 <div align=center>
   
-  # <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="33px"> Hi, I'm Felipe
+  # <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="23px"> Hi, I'm Felipe
   
   
    📫 How to reach me: felipevillamizarc@gmail.com 
