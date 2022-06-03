@@ -20,6 +20,7 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' alt='JavaScript' height='39' title='JavaScript' align=center>
   <img src='https://user-images.githubusercontent.com/95534180/151720587-570c5152-474a-49d3-8ea5-96a7221ae58d.png' alt='HTML' height='40' title='HTML' align=center>  
   <img src='https://user-images.githubusercontent.com/95534180/151720575-1fc9a4d1-b778-404d-a301-4397a6d7581a.png' alt='CSS' height='40' title='CSS' align=center> 
+  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968313.png' alt='MySQL' height='40' title='MySQL' align=center> 
   <img src='https://www.innerzaurus.com/wp-content/uploads/2020/08/Logo-de-Git.png' alt='Git' height='40' title='Git' align=center> 
   <img src='https://user-images.githubusercontent.com/95534180/151719595-5d78132b-50c0-4aa7-a776-1b9307b460a7.png' alt='GitHub' height='40' title='GitHub' align=center> 
   <img src='https://user-images.githubusercontent.com/95534180/151721380-8da7f395-0c5a-45d6-85fd-0935df99542d.png' alt='Linux' height='40' title='Linux' align=center>   
