@@ -4,8 +4,7 @@
   
    <!-- <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width=33px> -->
   
-   # Hi, I'm Felipe
-  
+   # <img src="http://readme-typing-svg.herokuapp.com/?size=30&color=FBD1D1&center=true&vCenter=true&lines=%3Ewhoami;%3EI'm+Felipe" />
   
    📫 How to reach me: felipevillamizarc@gmail.com 
   
@@ -32,7 +31,6 @@
   
   <!-- <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px"> -->
   ## Stats 
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipevcc&show_icons=true&theme=react)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipevcc&show_icons=true&bg_color=00000000&text_color=D9E0EE&icon_color=FBD1D1&title_color=FBD1D1&border_color=44475A)  
 
 </div>
