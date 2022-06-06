@@ -4,7 +4,7 @@
   
    <!-- <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width=33px> -->
   
-   # <img src="http://readme-typing-svg.herokuapp.com/?size=30&color=FBD1D1&center=true&vCenter=true&lines=%3Ewhoami;%3EI'm+Felipe" />
+   # <img src="http://readme-typing-svg.herokuapp.com/?size=30&color=FBD1D1&center=true&vCenter=true&lines=%3Ewhoami;I'm+Felipe" />
   
    📫 How to reach me: felipevillamizarc@gmail.com 
   
