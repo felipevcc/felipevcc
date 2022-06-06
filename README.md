@@ -31,6 +31,6 @@
   
   <!-- <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px"> -->
   ## Stats 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipevcc&show_icons=true&bg_color=00000000&text_color=D9E0EE&icon_color=FBD1D1&title_color=FBD1D1&border_color=44475A)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipevcc&show_icons=true&bg_color=282A36&text_color=D9E0EE&icon_color=FBD1D1&title_color=FBD1D1&border_color=44475A)  
 
 </div>
