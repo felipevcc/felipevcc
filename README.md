@@ -15,6 +15,7 @@
   ## Skills 
   
   <img src='https://store-images.s-microsoft.com/image/apps.37972.13510798882847238.aaaa73f1-0fc5-480b-8619-538d563b087a.494567bd-9177-4350-b15c-f9b823cb508c?mode=scale&q=90&h=300&w=300' alt='Python' height='40' title='Python' align=center>  
+  <img src='https://i.imgur.com/nKdjIpx.png' alt='C' height='48' title='C' align=center>
   <img src='https://blog.karmacomputing.co.uk/content/images/size/w2000/2019/03/learning-go-basics.png' alt='Golang' height='65' title='Golang' align=center>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' alt='JavaScript' height='39' title='JavaScript' align=center>
   <img src='https://user-images.githubusercontent.com/95534180/151720587-570c5152-474a-49d3-8ea5-96a7221ae58d.png' alt='HTML' height='40' title='HTML' align=center>  
