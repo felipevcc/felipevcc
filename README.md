@@ -8,7 +8,8 @@
   
    📫 How to reach me: felipevillamizarc@gmail.com 
   
-  [<img src='https://user-images.githubusercontent.com/95534180/151719487-f5970893-4c82-4d31-b25c-b147ed2ae575.png' alt='LinkedIn' height='40' title='LinkedIn' align=center>](https://www.linkedin.com/in/felipevc/) <!--[<img src='https://user-images.githubusercontent.com/95534180/151719325-f9cb9bff-d209-4d84-b221-11a86bafb240.png' alt='Instagram' height='40' title='Instagram' align=center>](https://www.instagram.com/felipevc_/) -->  [<img src='https://user-images.githubusercontent.com/95534180/151719649-6265265c-dc1e-4faf-a212-4dc6f576d050.png' alt='Twitter' height='40' title='Twitter' align=center>](https://twitter.com/felipevcc_)  <!--[<img src='https://cdn-icons-png.flaticon.com/512/1409/1409938.png' alt='Reddit' height='40' title='Reddit' align=center>](https://www.reddit.com/user/felipevc_)  -->
+  <p> <!--<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>--> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <!--<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>-->
+</p>
   <hr>
   
   <!-- <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="33px"> -->
