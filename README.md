@@ -33,7 +33,7 @@
     <img height="195" src="https://github-readme-stats.vercel.app/api?username=felipevcc&show_icons=true&bg_color=282A36&text_color=D9E0EE&icon_color=FBD1D1&title_color=FBD1D1&border_color=676871" alt="stats" />
     <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipevcc&show_icons=true&locale=en&layout=compact&bg_color=282A36&text_color=D9E0EE&title_color=FBD1D1&border_color=676871" alt="top" />
   </a>
-</p>
-  <img height="320" src="https://activity-graph.herokuapp.com/graph?username=felipevcc&hide_border=false&bg_color=282A36&color=FBD1D1&line=FBD1D1&point=FBD1D1" alt="graph" />
 
+  <img height="320" src="https://activity-graph.herokuapp.com/graph?username=felipevcc&hide_border=false&bg_color=282A36&color=FBD1D1&line=FBD1D1&point=FBD1D1" alt="graph" />
+</p>
 
