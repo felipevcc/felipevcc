@@ -25,13 +25,15 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg' alt='VSCode' height='40' title='VSCode' align=center>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Breezeicons-apps-48-atom.svg/2048px-Breezeicons-apps-48-atom.svg.png' alt='Atom' width='49' title='Atom' align=center>
   <hr>
-  
-  ## Stats 
+
+  ## Stats
+</div>
+<p align=center> 
   <a href="https://github.com/felipevcc">
     <img height="195" src="https://github-readme-stats.vercel.app/api?username=felipevcc&show_icons=true&bg_color=282A36&text_color=D9E0EE&icon_color=FBD1D1&title_color=FBD1D1&border_color=676871" alt="stats" />
     <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipevcc&show_icons=true&locale=en&layout=compact&bg_color=282A36&text_color=D9E0EE&title_color=FBD1D1&border_color=676871" alt="top" />
   </a>
-
+</p>
   <img height="320" src="https://activity-graph.herokuapp.com/graph?username=felipevcc&hide_border=false&bg_color=282A36&color=FBD1D1&line=FBD1D1&point=FBD1D1" alt="graph" />
 
-</div>
+
