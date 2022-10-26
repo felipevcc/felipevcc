@@ -1,8 +1,4 @@
-<!-- <img align=right src="https://visitor-badge.laobi.icu/badge?page_id=felipevcc"> -->
-
 <div align=center>
-  
-   <!-- <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width=33px> -->
   
    # <img src="http://readme-typing-svg.herokuapp.com/?size=30&color=FBD1D1&center=true&vCenter=true&lines=%3Ewhoami;I'm+Felipe" />
   
@@ -11,8 +7,7 @@
   <p> <!--<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>--> <a href="https://twitter.com/felipevcc_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/felipevc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <!--<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>-->
 </p>
   <hr>
-  
-  <!-- <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="33px"> -->
+ 
   ## Skills 
   
   <img src='https://store-images.s-microsoft.com/image/apps.37972.13510798882847238.aaaa73f1-0fc5-480b-8619-538d563b087a.494567bd-9177-4350-b15c-f9b823cb508c?mode=scale&q=90&h=300&w=300' alt='Python' height='40' title='Python' align=center>  
@@ -31,10 +26,11 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Breezeicons-apps-48-atom.svg/2048px-Breezeicons-apps-48-atom.svg.png' alt='Atom' width='49' title='Atom' align=center>
   <hr>
   
-  <!-- <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px"> -->
   ## Stats 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipevcc&show_icons=true&bg_color=282A36&text_color=D9E0EE&icon_color=FBD1D1&title_color=FBD1D1&border_color=676871)
-  <!--![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=felipevcc&show_icons=true&bg_color=282A36&text_color=D9E0EE&icon_color=FBD1D1&title_color=FBD1D1&border_color=44475A)-->
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=felipevcc&hide_border=false&bg_color=282A36&color=FBD1D1&line=FBD1D1&point=FBD1D1)
+  <a href="https://github.com/AVS1508">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=felipevcc&show_icons=true&bg_color=282A36&text_color=D9E0EE&icon_color=FBD1D1&title_color=FBD1D1&border_color=676871" alt="stats" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipevcc&show_icons=true&locale=en&layout=compact&bg_color=282A36&text_color=D9E0EE&title_color=FBD1D1&border_color=676871" alt="top" />
+    <img height="320" src="https://activity-graph.herokuapp.com/graph?username=felipevcc&hide_border=false&bg_color=282A36&color=FBD1D1&line=FBD1D1&point=FBD1D1" alt="stat1s" />
+  </a>
 
 </div>
