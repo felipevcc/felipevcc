@@ -34,8 +34,7 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipevcc&show_icons=true&locale=en&layout=compact&bg_color=282A36&text_color=D9E0EE&title_color=FBD1D1&border_color=676871" alt="top" />
     <img height="295" src="https://activity-graph.herokuapp.com/graph?username=felipevcc&hide_border=false&bg_color=282A36&color=FBD1D1&line=FBD1D1&point=A29EC5" alt="graph" />
   </a>
-
+  <!--
   <br><br>
-  <img alt="Pacman" width="250" src="https://i.imgur.com/mhvWE5b.gif">
-
+  <img alt="Pacman" width="250" src="https://i.imgur.com/mhvWE5b.gif"> -->
 </div>
