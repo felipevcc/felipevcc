@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/-vscode-518CB8?style=for-the-badge&logo=visual%20studio%20code&logoColor=518CB8&labelColor=282828">
   <img src="https://img.shields.io/badge/-atom-66595C?style=for-the-badge&logo=atom&logoColor=66595C&labelColor=282828">
   <br><br>
-  <img alt="Dino" width="500" src="https://i.imgur.com/mWcyyn7.gif"><br>
+  <img alt="Dino" width="490" src="https://i.imgur.com/mWcyyn7.gif"><br>
   <hr>
 
   ## Stats
