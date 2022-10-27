@@ -1,9 +1,9 @@
 <div align=center>
   
-   # <img src="http://readme-typing-svg.herokuapp.com/?size=30&color=FBD1D1&center=true&vCenter=true&lines=%3Ewhoami;I'm+Felipe" />
+  # <img src="http://readme-typing-svg.herokuapp.com/?size=30&color=FBD1D1&center=true&vCenter=true&lines=%3Ewhoami;I'm+Felipe" />
   
-   📫 How to reach me: felipevillamizarc@gmail.com 
-  
+  📫 How to reach me: felipevillamizarc@gmail.com 
+
   <p> <!--<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>--> <a href="https://twitter.com/felipevcc_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/felipevc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <!--<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>-->
 </p>
   <hr>
@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/-vim/nvim-4F9B4A?style=for-the-badge&logo=vim&logoColor=4F9B4A&labelColor=282828">
   <img src="https://img.shields.io/badge/-vscode-518CB8?style=for-the-badge&logo=visual%20studio%20code&logoColor=518CB8&labelColor=282828">
   <img src="https://img.shields.io/badge/-atom-66595C?style=for-the-badge&logo=atom&logoColor=66595C&labelColor=282828">
+  <br><br>
+  <img alt="Dino" width="500" src="https://i.imgur.com/mWcyyn7.gif"><br>
   <hr>
 
   ## Stats
