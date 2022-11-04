@@ -8,7 +8,7 @@
 </p>
   <hr>
  
-  ## Skills 
+  ## Tech Skills 
 
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-C-979DAC?style=for-the-badge&logo=c&logoColor=979DAC&labelColor=282828">
