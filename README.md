@@ -4,7 +4,7 @@
   
   📫 How to reach me: felipevillamizarc@gmail.com 
 
-  <p> <!--<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>--> <a href="https://twitter.com/felipevcc_" target="_blank"><img alt="Twitter" width=109 align=center src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://medium.com/@felipevcc" target="_blank"><img width=105 align=center alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><a href="https://www.linkedin.com/in/felipevc" target="_blank"><img width=115 align=center alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <p> <a href="https://twitter.com/felipevcc_" target="_blank"><img alt="Twitter" width=109 align=center src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://medium.com/@felipevcc" target="_blank"><img width=105 align=center alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><a href="https://www.linkedin.com/in/felipevc" target="_blank"><img width=115 align=center alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
   <hr>
  
@@ -32,9 +32,6 @@
   <a href="https://github.com/felipevcc">
     <img height="191" src="https://github-readme-stats.vercel.app/api?username=felipevcc&show_icons=true&bg_color=282A36&text_color=D9E0EE&icon_color=FBD1D1&title_color=FBD1D1&border_color=676871" alt="stats" />
     <img height="191" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipevcc&show_icons=true&locale=en&layout=compact&bg_color=282A36&text_color=D9E0EE&title_color=FBD1D1&border_color=676871&langs_count=7" alt="top" />
-    <img height="295" src="https://activity-graph.herokuapp.com/graph?username=felipevcc&hide_border=false&bg_color=282A36&color=FBD1D1&line=FBD1D1&point=A29EC5" alt="graph" />
+    <!--<img height="295" src="https://activity-graph.herokuapp.com/graph?username=felipevcc&hide_border=false&bg_color=282A36&color=FBD1D1&line=FBD1D1&point=A29EC5" alt="graph" /> -->
   </a>
-  <!--
-  <br><br>
-  <img alt="Pacman" width="250" src="https://i.imgur.com/mhvWE5b.gif"> -->
 </div>
