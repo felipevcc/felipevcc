@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/-Flask-303439?style=for-the-badge&logo=flask&logoColor=dadada&labelColor=282828">
   <img src="https://img.shields.io/badge/-C-979DAC?style=for-the-badge&logo=c&logoColor=979DAC&labelColor=282828">
   <img src="https://img.shields.io/badge/-Js-F5F095?style=for-the-badge&logo=Javascript&logoColor=F5F095&labelColor=282828">
+  <img src="https://img.shields.io/badge/-MySQL-338DBF?style=for-the-badge&logo=mysql&logoColor=338DBF&labelColor=282828">
   <img src="https://img.shields.io/badge/-HTML-E49C55?style=for-the-badge&logo=html5&logoColor=E49C55&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-4DA2D1?style=for-the-badge&logo=css3&logoColor=4DA2D1&labelColor=282828">
-  <img src="https://img.shields.io/badge/-MySQL-338DBF?style=for-the-badge&logo=mysql&logoColor=338DBF&labelColor=282828">
   <img src="https://img.shields.io/badge/-Json-303439?style=for-the-badge&logo=json&logoColor=B6B6B6&labelColor=282828">
   <img src="https://img.shields.io/badge/-GIT-C46339?style=for-the-badge&logo=git&logoColor=C46339&labelColor=282828">
   <img src="https://img.shields.io/badge/-GITHUB-949DA5?style=for-the-badge&logo=github&logoColor=949DA5&labelColor=282828">
