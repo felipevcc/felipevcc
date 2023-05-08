@@ -35,6 +35,5 @@
   <a href="https://github.com/felipevcc">
     <img height="191" src="https://github-readme-stats.vercel.app/api?username=felipevcc&show_icons=true&bg_color=282A36&text_color=D9E0EE&icon_color=FBD1D1&title_color=FBD1D1&border_color=676871" alt="stats" />
     <img height="191" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipevcc&show_icons=true&locale=en&layout=compact&bg_color=282A36&text_color=D9E0EE&title_color=FBD1D1&border_color=676871&langs_count=7" alt="top" />
-    <!--<img height="295" src="https://activity-graph.herokuapp.com/graph?username=felipevcc&hide_border=false&bg_color=282A36&color=FBD1D1&line=FBD1D1&point=A29EC5" alt="graph" /> -->
   </a>
 </div>
