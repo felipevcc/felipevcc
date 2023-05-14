@@ -4,8 +4,10 @@
   
   📫 How to reach me: felipevillamizarc@gmail.com 
 
-  <p> <a href="https://twitter.com/felipevcc_" target="_blank"><img alt="Twitter" width=109 align=center src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://medium.com/@felipevcc" target="_blank"><img width=105 align=center alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><a href="https://www.linkedin.com/in/felipevc" target="_blank"><img width=115 align=center alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/felipevcc_)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/314901228301844491)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipevc)
+
   <hr>
  
   ## Tech Skills 
