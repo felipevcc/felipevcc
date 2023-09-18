@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-Express-404D59?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=282828">
   <img src="https://img.shields.io/badge/-Ts-397dc6?style=for-the-badge&logo=typescript&logoColor=397dc6&labelColor=282828">
   <img src="https://img.shields.io/badge/-React-4DA2D1?style=for-the-badge&logo=react&logoColor=4DA2D1&labelColor=1D2128">
+  <img src="https://img.shields.io/badge/-Angular-E23237?style=for-the-badge&logo=angular&logoColor=E23237&labelColor=1D2128">
   <img src="https://img.shields.io/badge/-jQuery-1E608C?style=for-the-badge&logo=jQuery&logoColor=1E608C&labelColor=282828">
   <img src="https://img.shields.io/badge/-MySQL-338DBF?style=for-the-badge&logo=mysql&logoColor=338DBF&labelColor=282828">
   <img src="https://img.shields.io/badge/-Oracle-C94634?style=for-the-badge&logo=oracle&logoColor=C94634&labelColor=282828">
