@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/-Oracle-C94634?style=for-the-badge&logo=oracle&logoColor=C94634&labelColor=282828">
   <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=316192&labelColor=282828">
   <img src="https://img.shields.io/badge/-Mongodb-118B4B?style=for-the-badge&logo=mongodb&logoColor=118B4B&labelColor=282828">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-Docker-338DBF?style=for-the-badge&logo=docker&logoColor=338DBF&labelColor=282828">
   <img src="https://img.shields.io/badge/-HTML-E49C55?style=for-the-badge&logo=html5&logoColor=E49C55&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-4DA2D1?style=for-the-badge&logo=css3&logoColor=4DA2D1&labelColor=282828">
