@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/-HTML-E49C55?style=for-the-badge&logo=html5&logoColor=E49C55&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-4DA2D1?style=for-the-badge&logo=css3&logoColor=4DA2D1&labelColor=282828">
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-GIT-C46339?style=for-the-badge&logo=git&logoColor=C46339&labelColor=282828">
   <img src="https://img.shields.io/badge/-linux-9E9E9E?style=for-the-badge&logo=linux&logoColor=9E9E9E&labelColor=282828">
   <br><br>
