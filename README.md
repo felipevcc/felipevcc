@@ -1,6 +1,6 @@
+<img src="https://i.imgur.com/GQbHtk3.png">
+
 <div align=center>
-  
-  # <img src="http://readme-typing-svg.herokuapp.com/?size=30&color=FBD1D1&center=true&vCenter=true&lines=%3Ewhoami;I'm+Felipe" />
   
   📫 How to reach me: felipevillamizarc@gmail.com 
 
