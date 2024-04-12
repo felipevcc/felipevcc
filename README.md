@@ -4,9 +4,9 @@
   
   📫 How to reach me: felipevillamizarc@gmail.com 
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=231DA1F2&labelColor=282828)](https://twitter.com/felipevcc_)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=235865F2&labelColor=282828)](https://discord.com/users/314901228301844491)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=282828)](https://www.linkedin.com/in/felipevc)
+  [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/felipevcc_)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/314901228301844491)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipevc)
 
   <hr>
  
