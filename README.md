@@ -12,36 +12,37 @@
  
   ## Tech Skills 
   
-  <img src="https://img.shields.io/badge/C-979DAC?style=for-the-badge&logo=c&logoColor=979DAC&labelColor=282828">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=282828">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=282828">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=6DB33F&labelColor=282828">
-  <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
-  <img src="https://img.shields.io/badge/Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/Flask-303439?style=for-the-badge&logo=flask&logoColor=dadada&labelColor=282828">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=282828">
-  <img src="https://img.shields.io/badge/Laravel-F03D2F?style=for-the-badge&logo=laravel&logoColor=F03D2F&labelColor=282828">
-  <img src="https://img.shields.io/badge/Js-F5F095?style=for-the-badge&logo=Javascript&logoColor=F5F095&labelColor=282828">
-  <img src="https://img.shields.io/badge/Node.js-8DBD5F?style=for-the-badge&logo=node.js&logoColor=8DBD5F&labelColor=282828">
-  <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=282828">
-  <img src="https://img.shields.io/badge/Ts-397dc6?style=for-the-badge&logo=typescript&logoColor=397dc6&labelColor=282828">
-  <img src="https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=E23237&labelColor=1D2128">
-  <img src="https://img.shields.io/badge/React-4DA2D1?style=for-the-badge&logo=react&logoColor=4DA2D1&labelColor=1D2128">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=282828">
-  <img src="https://img.shields.io/badge/jQuery-1E608C?style=for-the-badge&logo=jQuery&logoColor=1E608C&labelColor=282828">
-  <img src="https://img.shields.io/badge/MySQL-338DBF?style=for-the-badge&logo=mysql&logoColor=338DBF&labelColor=282828">
-  <img src="https://img.shields.io/badge/Oracle-C94634?style=for-the-badge&logo=oracle&logoColor=C94634&labelColor=282828">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=316192&labelColor=282828">
-  <img src="https://img.shields.io/badge/Mongodb-118B4B?style=for-the-badge&logo=mongodb&logoColor=118B4B&labelColor=282828">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=282828">
-  <img src="https://img.shields.io/badge/Docker-338DBF?style=for-the-badge&logo=docker&logoColor=338DBF&labelColor=282828">
-  <img src="https://img.shields.io/badge/HTML-E49C55?style=for-the-badge&logo=html5&logoColor=E49C55&labelColor=282828">
-  <img src="https://img.shields.io/badge/CSS-4DA2D1?style=for-the-badge&logo=css3&logoColor=4DA2D1&labelColor=282828">
-  <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=282828">
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&labelColor=282828">
-  <img src="https://img.shields.io/badge/GIT-C46339?style=for-the-badge&logo=git&logoColor=C46339&labelColor=282828">
-  <img src="https://img.shields.io/badge/linux-9E9E9E?style=for-the-badge&logo=linux&logoColor=9E9E9E&labelColor=282828">
-  <br><br>
+  <p align="center">
+    <code><img title="C" height="25" src="images/c.svg"></code>
+    <code><img title="Java" height="27" src="images/java.svg"></code>
+    <code><img title="Spring Boot" height="22" src="images/springboot.svg"></code>
+    <code><img title="Spring Security" height="22" src="images/springsecurity.svg"></code>
+    <code><img title="JWT" height="23" src="images/jwt.svg"></code>
+    <code><img title="Python" height="25" src="images/python.svg"></code>
+    <code><img title="Flask" height="25" src="images/flask.png"></code>
+    <code><img title="PHP" height="25" src="images/php.svg"></code>
+    <code><img title="Laravel" height="25" src="images/laravel.svg"></code>
+    <code><img title="JavaScript" height="24" src="images/javascript.svg"></code>
+    <code><img title="Nodejs" height="25" src="images/nodejs.svg"></code>
+    <code><img title="Express" height="25" src="images/express.svg"></code>
+    <code><img title="TypeScript" height="25" src="images/typescript.png"></code>
+    <code><img title="Angular" height="25" src="images/angular2.png"></code>
+    <code><img title="React" height="25" src="images/react.svg"></code>
+    <code><img title="Vue.js" height="23" src="images/vuejs.svg"></code>
+    <code><img title="jQuery" height="25" src="images/jquery.svg"></code>
+    <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+    <code><img title="Oracle" height="25" src="images/oracle.svg"></code>
+    <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+    <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
+    <code><img title="AWS" height="18" src="images/aws.svg"></code>
+    <code><img title="Docker" height="23" src="images/docker.svg"></code>
+    <code><img title="HTML" height="25" src="images/html5.svg"></code>
+    <code><img title="CSS" height="25" src="images/css.svg"></code>
+    <code><img title="SASS" height="25" src="images/sass.svg"></code>
+    <code><img title="Redux" height="25" src="images/redux.svg"></code>
+    <code><img title="Git" height="24" src="images/git.svg"></code>
+    <code><img title="Linux" height="25" src="images/linux.png"></code>
+  </p>
   <img alt="Dino" width="420" src="https://i.imgur.com/mWcyyn7.gif"><br>
   <hr>
 
