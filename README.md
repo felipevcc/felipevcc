@@ -43,7 +43,6 @@
     <code><img title="Git" height="24" src="images/git.svg"></code>
     <code><img title="Linux" height="25" src="images/linux.png"></code>
   </p>
-  <br>
   <img alt="Dino" width="420" src="https://i.imgur.com/mWcyyn7.gif"><br>
   <hr>
 
