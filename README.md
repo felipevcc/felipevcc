@@ -39,6 +39,7 @@
     <code><img title="HTML" height="25" src="images/html5.svg"></code>
     <code><img title="CSS" height="25" src="images/css.svg"></code>
     <code><img title="SASS" height="25" src="images/sass.svg"></code>
+    <code><img title="Bootstrap" height="25" src="images/bootstrap.png"></code>
     <code><img title="Redux" height="25" src="images/redux.svg"></code>
     <code><img title="Git" height="24" src="images/git.svg"></code>
     <code><img title="Linux" height="25" src="images/linux.png"></code>
